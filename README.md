@@ -9,7 +9,7 @@ Here is a growing collection of resources and helpful commands to know when work
  - [git init](./commands/Init.md)
  - [git add](./commands/Add.md)
  - [git commit](./commands/Commit.md)
- - [git commit](./commands/Remote.md)
+ - [git remote](./commands/Remote.md)
  - [git push](./commands/Push.md)
  - [git pull](./commands/Pull.md)
  - [git status](./commands/Status.md)
